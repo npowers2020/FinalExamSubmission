@@ -1,0 +1,12 @@
+@media screen and (max-width: 800px) and (min-width: 340x), (min-width: 400px){
+    .mySlides img{
+        height: 50%;
+        width:50%;
+    }
+}
+@media screen and (max-width: 800px) and (min-width: 340x), (min-width: 400px){
+    .MainText img{
+        height: 50%;
+        width:50%;
+    }
+}
